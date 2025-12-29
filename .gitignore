@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Project Specific
+static/samples/*
+!static/samples/apollo.jpg
+!static/samples/apollo.sog
+!static/samples/canyon.jpg
+!static/samples/canyon.sog
+static/input.jpg
+static/output.ply
+static/output.sog
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
