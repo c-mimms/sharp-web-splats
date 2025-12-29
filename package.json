@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@playcanvas/web-components": "^0.2.12",
+    "playcanvas": "^2.14.4"
+  }
+}

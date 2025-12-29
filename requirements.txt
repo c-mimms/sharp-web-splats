@@ -1,0 +1,15 @@
+flask
+torch
+torchvision
+numpy
+pillow
+timm
+imageio[ffmpeg]
+matplotlib
+pillow-heif
+plyfile
+scipy
+click
+gsplat
+cryptography
+-e ./ml-sharp
